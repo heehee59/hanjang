@@ -8,13 +8,13 @@
 * 회원가입을 통해 회원이 되면 책 추천을 할 수 있는 회원 커뮤니티에 글을 쓰거나 댓글을 작성할 수 있게 하였고, 필요할 경우 책 사진이나 참고할 만한 이미지를 올릴 수 있도록 이미지 업로드 기능을 구현하였습니다.
 * 장바구니에 담은 상품은 실제로 결제할 수 있게 결제 API를 연결하였고 마이페이지에서 결제 후 주문이 완료된 항목을 조회할 수 있게 했습니다.
 * 회원은 언제든지 자신의 회원정보를 수정하거나 탈퇴할 수 있게 하였습니다.
-<hr>
+<hr />
 ## 👫👬 프로젝트 명단
 엄희경, 장민수, 정현수, 정회승, 함지웅
-<hr>
+<hr />
 ## :link: 프로젝트 URL
 http://13.124.60.145:8080/SpringProject
-<hr>
+<hr />
 ## 🛠 사용 툴
 * Eclipse
 * MariaDB
@@ -22,20 +22,20 @@ http://13.124.60.145:8080/SpringProject
 * Jenkins
 * Slack
 * Github
-<hr>
+<hr />
 ## 🎈 프론트엔드
 * HTML5
 * CSS3
 * JavaScript
 * jQuery
 * AJAX
-<hr>
+<hr />
 ## ✒ 백엔드
 * JAVA
 * MyBatis
 * SpringFramework
 * JSP
-<hr>
+<hr />
 ## 📌 사용 서버
 * Apache-Tomcat 8.5
 * AWS RDS
